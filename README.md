@@ -1,4 +1,4 @@
-# 🌱 Climate Sahayak
+# 🌱 Climate Change AI
 
 **Climate Sahayak** is an intelligent, AI-powered climate support assistant designed to help users understand, visualize, and act on climate data using modern tools like FastAPI, Streamlit, and Agentic AI (LangChain, LangGraph, Ollama).
 
