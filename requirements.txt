@@ -1,0 +1,25 @@
+# === Core Frameworks ===
+fastapi
+uvicorn[standard]
+streamlit
+
+# === Data & Machine Learning ===
+pandas
+numpy
+matplotlib
+plotly
+joblib
+scikit-learn
+
+# === LangGraph / LangChain Ecosystem ===
+langchain
+langgraph
+langchain-community
+ollama
+
+# === Utilities ===
+python-dotenv
+requests
+
+# === Testing ===
+pytest
